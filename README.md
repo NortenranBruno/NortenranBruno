@@ -7,6 +7,7 @@
 
 ![Bruno P. GitHub stats](https://github-readme-stats.vercel.app/api?username=nortenranBruno&show_icons=true&theme=radical)
 ![Bruno P.](https://github-readme-stats.vercel.app/api/top-langs/?username=nortenranBruno&hide_progress=true&theme=radical)
+![Bruno P.](https://github-readme-stats.vercel.app/api/top-langs/?username=nortenranBruno&theme=blue-green)
 
 ### Tecnologias que eu uso
 
